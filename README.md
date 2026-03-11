@@ -1,9 +1,12 @@
+# Vintage Story models (made by me)
+
+Models are made for [Vintage Story](https://www.vintagestory.at/) game
+
 To open models:
 
-https://github.com/anegostudios/vsmodelcreator
-
-https://github.com/anegostudios/vsmc2
+- [VSMC](https://github.com/anegostudios/vsmodelcreator)
+- [VSMC2](https://github.com/anegostudios/vsmc2)
 
 To see model preview without opening it (for Windows):
 
-https://github.com/codename-B/glimpse
+- [glimpse](https://github.com/codename-B/glimpse)
