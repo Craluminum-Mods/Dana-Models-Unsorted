@@ -7,29 +7,6 @@
 	"textureWidth": 16,
 	"textureHeight": 16,
 	"textureSizes": {
-		"ctrl": [16,16],
-		"default": [16,16],
-		"black": [16,16],
-		"alt": [16,16],
-		"beige": [16,16],
-		"white": [16,16],
-		"iron": [16,16],
-		"steel": [16,16],
-		"meteoriciron": [16,16],
-		"stainlesssteel": [16,16],
-		"chromium": [16,16],
-		"platinum": [16,16],
-		"zinc": [16,16],
-		"key-stackoverflow": [16,16],
-		"key-c": [16,16],
-		"key-v": [16,16],
-		"1": [16,16],
-		"1u": [16,16],
-		"12": [16,16],
-		"13": [16,16],
-		"2u": [16,16],
-		"2": [16,16],
-		"6": [16,16]
 	},
 	"textures": {
 		"1": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_keys/textures/1.25u",
@@ -39,8 +16,8 @@
 		"2": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_keys/textures/2.25u",
 		"2u": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_keys/textures/2u",
 		"6": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_keys/textures/6.25u",
-		"beige": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_keys/textures/beige",
-		"white": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_keys/textures/white"
+		"beige": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_keys/textures/color-beige",
+		"white": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_keys/textures/color-white"
 	},
 	"elements": [
 		{
