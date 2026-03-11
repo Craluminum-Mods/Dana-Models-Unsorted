@@ -1,0 +1,79 @@
+{
+	"editor": {
+		"allAngles": false,
+		"entityTextureMode": false
+	},
+	"textureWidth": 16,
+	"textureHeight": 16,
+	"textureSizes": {
+	},
+	"textures": {
+		"col67": "C:/Users/dana_/AppData/Roaming/Vintagestory/assets/creative/textures/block/creative/col67"
+	},
+	"elements": [
+		{
+			"name": "Magazine",
+			"from": [ 8.0, -7.56, 6.74 ], 
+			"to": [ 8.0, 0.0, 9.27 ], 
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"rotationY": -180.0,
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 7.5 ], "enabled": false },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 2.5, 7.5 ], "enabled": false },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 7.5 ], "enabled": false },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 2.5, 7.5 ], "enabled": false },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 2.5 ], "enabled": false },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 2.5 ], "enabled": false }
+			},
+			"children": [
+				{
+					"name": "Cube2",
+					"from": [ -0.44, 5.0, 0.0 ], 
+					"to": [ 0.44, 7.56, 2.53 ], 
+					"rotationOrigin": [ 0.0, 5.0, 0.0 ],
+					"faces": {
+						"north": { "texture": "#col67", "uv": [ 0.0, 0.0, 0.5, 2.5 ] },
+						"east": { "texture": "#col67", "uv": [ 0.0, 0.0, 2.5, 2.5 ] },
+						"south": { "texture": "#col67", "uv": [ 0.0, 0.0, 0.5, 2.5 ] },
+						"west": { "texture": "#col67", "uv": [ 0.0, 0.0, 2.5, 2.5 ] },
+						"up": { "texture": "#col67", "uv": [ 0.0, 0.0, 0.5, 2.5 ] },
+						"down": { "texture": "#col67", "uv": [ 0.0, 0.0, 0.5, 2.5 ] }
+					},
+					"children": [
+						{
+							"name": "Cube3",
+							"from": [ 0.0, -2.56, 0.0 ], 
+							"to": [ 0.88, 0.0, 2.53 ], 
+							"rotationOrigin": [ 0.0, 0.0, 0.0 ],
+							"rotationX": -7.0,
+							"faces": {
+								"north": { "texture": "#col67", "uv": [ 0.0, 0.0, 0.5, 2.5 ] },
+								"east": { "texture": "#col67", "uv": [ 0.0, 0.0, 2.5, 2.5 ] },
+								"south": { "texture": "#col67", "uv": [ 0.0, 0.0, 0.5, 2.5 ] },
+								"west": { "texture": "#col67", "uv": [ 0.0, 0.0, 2.5, 2.5 ] },
+								"up": { "texture": "#col67", "uv": [ 0.0, 0.0, 0.5, 2.5 ] },
+								"down": { "texture": "#col67", "uv": [ 0.0, 0.0, 0.5, 2.5 ] }
+							},
+							"children": [
+								{
+									"name": "Cube4",
+									"from": [ 0.0, -2.54, 0.0 ], 
+									"to": [ 0.88, 0.02, 2.53 ], 
+									"rotationOrigin": [ 0.0, 0.0, 0.0 ],
+									"rotationX": -7.0,
+									"faces": {
+										"north": { "texture": "#col67", "uv": [ 0.0, 0.0, 0.5, 2.5 ] },
+										"east": { "texture": "#col67", "uv": [ 0.0, 0.0, 2.5, 2.5 ] },
+										"south": { "texture": "#col67", "uv": [ 0.0, 0.0, 0.5, 2.5 ] },
+										"west": { "texture": "#col67", "uv": [ 0.0, 0.0, 2.5, 2.5 ] },
+										"up": { "texture": "#col67", "uv": [ 0.0, 0.0, 0.5, 2.5 ] },
+										"down": { "texture": "#col67", "uv": [ 0.0, 0.0, 0.5, 2.5 ] }
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]}
