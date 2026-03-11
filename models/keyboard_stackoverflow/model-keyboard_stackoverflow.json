@@ -25,12 +25,12 @@
 		"key-v": [16,16]
 	},
 	"textures": {
-		"beige": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/keyboard_stackoverflow/textures/beige",
-		"black": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/keyboard_stackoverflow/textures/black",
-		"key-c": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/keyboard_stackoverflow/textures/key-c",
-		"key-stackoverflow": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/keyboard_stackoverflow/textures/key-stackoverflow",
-		"key-v": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/keyboard_stackoverflow/textures/key-v",
-		"white": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/keyboard_stackoverflow/textures/white",
+		"beige": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_stackoverflow/textures/beige",
+		"black": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_stackoverflow/textures/black",
+		"key-c": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_stackoverflow/textures/key-c",
+		"key-stackoverflow": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_stackoverflow/textures/key-stackoverflow",
+		"key-v": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_stackoverflow/textures/key-v",
+		"white": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_stackoverflow/textures/white",
 		"steel": "block/metal/ingot/steel"
 	},
 	"elements": [

@@ -32,15 +32,15 @@
 		"6": [16,16]
 	},
 	"textures": {
-		"1": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/keyboard_keys/textures/1.25u",
-		"12": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/keyboard_keys/textures/1.5u",
-		"13": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/keyboard_keys/textures/1.75u",
-		"1u": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/keyboard_keys/textures/1u",
-		"2": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/keyboard_keys/textures/2.25u",
-		"2u": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/keyboard_keys/textures/2u",
-		"6": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/keyboard_keys/textures/6.25u",
-		"beige": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/keyboard_keys/textures/beige",
-		"white": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/keyboard_keys/textures/white"
+		"1": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_keys/textures/1.25u",
+		"12": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_keys/textures/1.5u",
+		"13": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_keys/textures/1.75u",
+		"1u": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_keys/textures/1u",
+		"2": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_keys/textures/2.25u",
+		"2u": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_keys/textures/2u",
+		"6": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_keys/textures/6.25u",
+		"beige": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_keys/textures/beige",
+		"white": "C:/Users/dana_/Source/Repos/Dana-Models-Unsorted/models/keyboard_keys/textures/white"
 	},
 	"elements": [
 		{
